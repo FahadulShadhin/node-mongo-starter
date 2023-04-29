@@ -1,0 +1,20 @@
+{
+	"name": "quick",
+	"version": "1.0.0",
+	"description": "rest api quick",
+	"main": "server.js",
+	"scripts": {
+		"dev": "nodemon server.js"
+	},
+	"author": "shadhin",
+	"license": "ISC",
+	"dependencies": {
+		"colors": "^1.4.0",
+		"express": "^4.18.2",
+		"mongoose": "^7.1.0"
+	},
+	"devDependencies": {
+		"dotenv": "^16.0.3",
+		"nodemon": "^2.0.22"
+	}
+}
